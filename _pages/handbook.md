@@ -58,7 +58,7 @@ The above does not apply to undergraduate students who need to work around their
 
 ### Vacation
 
-I will not be in the lab on official UGA paid holidays (https://www.uga.edu/holiday-schedule), and I hope that everyone will take this time off as well. If you observe holidays that are not on UGA's holiday calendar and will need time off, please let me know.
+I will not be in the lab on official [UGA paid holidays](https://www.uga.edu/holiday-schedule), and I hope that everyone will take this time off as well. If you observe holidays that are not on UGA's holiday calendar and will need time off, please let me know.
 
 UGA benefits eligible employees and postdoctoral researchers accrue vacation hours at a rate of 10 hours per month. While graduate students do not officially accrue any leave, I also encourage graduate students to take time off, and you should feel free to take 15 days off in addition to UGA holidays.  I do not need to approve the dates of your vacation in advance, but I would appreciate it if you let me and the rest of the lab know when you plan to be on vacation. When you are on vacation, I do not expect you to respond to lab-related communications. Work or career-related travel (like attending conferences) is work, and it does not count as vacation.
 
@@ -74,7 +74,7 @@ Please do not come to lab if you are sick and take the time you need to rest and
 
 ## Lab communication
 
-The lab primarily communicates via a slack workspace (https://mortimer-lab.slack.com). If you have a question for me or another lab member, please first consider if it can be posted in a public channel. It's likely that someone else has the same question now (or in the future) and that multiple lab members will be able to help you with your problem. Posting in a channel, rather than a direct message, will allow the discussion to be searchable in the future.
+The lab primarily communicates via a [slack workspace](https://mortimer-lab.slack.com). If you have a question for me or another lab member, please first consider if it can be posted in a public channel. It's likely that someone else has the same question now (or in the future) and that multiple lab members will be able to help you with your problem. Posting in a channel, rather than a direct message, will allow the discussion to be searchable in the future.
 
 If my office door is open, please feel free to come in. If I'm out of office or my office door is closed, it is best to send me a message on slack. I expect that everyone checks in on the lab slack a few times a day on days you are working. You do not need to respond to messages at night, on the weekend, or on vacation even if other lab members are working during those times.
 
@@ -90,7 +90,7 @@ For junior trainees, we will have weekly one-on-one meetings; after one year in 
 
 ### Yearly individual goals meeting
 
-In the spring, we will use one of our individual meetings to complete any required yearly evaluations and discuss your long-term research and career goals. If you do not have a required written evaluation as part of your training program, I would suggest using an individual development plan (e.g. https://myidp.sciencecareers.org/).
+In the spring, we will use one of our individual meetings to complete any required yearly evaluations and discuss your long-term research and career goals. If you do not have a required written evaluation as part of your training program, I would suggest using an [individual development plan](https://myidp.sciencecareers.org/).
 
 ### Lab meeting
 
@@ -104,7 +104,7 @@ In the fall, we will schedule a half day lab meeting to discuss our projects and
 
 ### Department of Microbiology Seminars
 
-https://mib.uga.edu/events/all
+[Schedule](https://mib.uga.edu/events/all)
 
 # Resources
 
@@ -154,7 +154,7 @@ For some academic journals, you may need to access articles through UGA's subscr
 4. Send me a short bio and a picture of yourself for the lab website
 
 Optional onboarding for beginners in bioinformatics:
-5. Complete tutorials in [unix](####unix), [git](####git), and [python](####python)
+5. Complete tutorials in [unix](#unix), [git](#git), and [python](#python)
 6. Try to complete as many problems as you can through [Rosalind](https://rosalind.info/problems/locations/). During our first few weekly meetings, we can discuss where you got stuck, what you think the problem is, and work through a solution together. Feel free to discuss the problems with other lab members as well!
 
 ## Before you go
