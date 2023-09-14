@@ -1,5 +1,6 @@
 ---
 permalink: /news/
-title: "News"
+title: ""
 layout: posts
+author_profile: false
 ---
