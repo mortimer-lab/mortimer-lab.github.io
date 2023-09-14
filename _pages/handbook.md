@@ -1,7 +1,7 @@
 ---
 toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
+toc_label: "Lab Handbook"
+toc_icon: "bacteria"
 toc_sticky: true
 permalink: /handbook/
 title: ""
