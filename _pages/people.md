@@ -3,7 +3,7 @@ permalink: /people/
 title: ""
 ---
 
-<a href="https://mortimer-lab.github.io/people/TatumMortimer">
+<a href="/people/TatumMortimer">
 <img src="/assets/images/Mortimer_headshot_small.png" width="30%" title="Tatum Mortimer" align="left" hspace="30">
 </a>
 

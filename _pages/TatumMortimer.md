@@ -2,7 +2,7 @@
 permalink: /people/TatumMortimer/
 title: ""
 author:
-  name   : "Tatum Mortimer""
+  name   : "Tatum Mortimer"
   avatar : "/assets/images/Mortimer_headshot_small.jpg"
   bio    : PI, Assistant Professor<br>Department of Population Health<br>College of Veterinary Medicine<br>University of Georgia
   links:
