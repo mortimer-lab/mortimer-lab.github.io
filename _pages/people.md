@@ -4,7 +4,7 @@ title: ""
 ---
 
 <a href="/people/TatumMortimer">
-<img src="/assets/images/Mortimer_headshot_small.png" width="30%" title="Tatum Mortimer" align="left" hspace="30">
+<img src="/assets/images/Mortimer_headshot_small.jpg" width="30%" title="Tatum Mortimer" align="left" hspace="30">
 </a>
 
 __Tatum Mortimer__<br/>
