@@ -344,6 +344,7 @@ Coming soon!
 ### Resources at UGA
 
 - UGA's [Professional Education Portal](https://hr.uga.edu/pep/) has resources for faculty and staff training
+- [Professional Photo Booth](https://career.uga.edu/professional_photo_booth) at the UGA Career Center
 
 ### Online Resources
 - [PLoS Computational Biology's Ten Simple Rules articles](https://collections.plos.org/collection/ten-simple-rules/)
