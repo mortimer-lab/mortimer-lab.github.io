@@ -136,6 +136,8 @@ UGA provides up to 5TB of storage through [Microsoft OneDrive](https://ugamail.u
 
 The majority of your work will take place on UGA's research cluster Sapelo2. Once your training progresses to work on the cluster, please request an [account](https://gacrc.uga.edu/accounts/). Depending on your prior experience working on clusters, you may be required to attend one or more trainings before being given access.
 
+Please regularly review [best practices](https://wiki.gacrc.uga.edu/wiki/Best_Practices_on_Sapelo2) for working on Sapelo2. 
+
 ## Academic journal access
 
 For some academic journals, you may need to access articles through UGA's subscriptions. I find that the easiest way to get access to an article through UGA is to go to the [library homepage](https://www.libs.uga.edu/) and use the Google Scholar search option from there.
@@ -411,3 +413,69 @@ The following are conferences that you might consider attending:
 ### Windows Subsystem for Linux
 
 The easiest way to get a unix terminal on Windows is to install [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
+
+## Choosing a text editor or IDE
+
+When you are working on a cluster system or in the unix shell, it can be helpful to know how to use a text editor since you may frequently need to edit files like job submission scripts without transferring back and forth from your own computer. People have [strong opinions](https://xkcd.com/378/) on which text editor is best, but you should use whichever you are most comfortable with.
+
+### Text editors available on Sapelo2
+
+#### Vim
+
+[Vim](https://www.vim.org/) is the text editor that I use, so it is the one I will be able to help you with if you choose to use it.
+
+##### Vim resources and plugins
+
+- [vim adventures](https://vim-adventures.com/): a game that will help you learn vim keyboard shortcuts as a beginner
+- If you decide to use vim, you should consider installing [neovim](https://neovim.io/), which is a refactored version of Vim that supports up-to-date syntax highlighting and plugin management.
+- [Nvim-R](https://github.com/jamespeapen/Nvim-R/wiki): a plugin for editing R code
+
+#### emacs
+
+[Emacs](https://www.gnu.org/software/emacs/) is another popular text editor.
+
+##### emacs resources
+
+- [emacs manual](https://www.gnu.org/software/emacs/documentation.html)
+
+#### nano
+
+Nano is a basic text editor. It is probably more intuitive than vim or emacs, but it is also less powerful.
+
+##### nano resources
+
+- [nano manual](https://www.nano-editor.org/dist/v2.2/nano.html)
+
+#### Open OnDemand text editor
+
+You can also edit files in the browser using through [Open OnDemand](https://wiki.gacrc.uga.edu/wiki/OOD_Apps:_Files). This text editor has options for both vim and emacs key bindings.
+
+### Text editors for your personal computer
+
+You can also use vim, emacs, or nano on your personal computer if you are working in the Windows Subsystem for Linux, Linux, or Mac Terminal. Additionally, you could use a text editor with a graphical user interface, like these:
+
+- [Sublime Text](https://www.sublimetext.com/): available for Windows, MacOS, and Linux
+- [Notepad++](https://notepad-plus-plus.org/): available for Windows
+
+### Integrated Development Environments (IDEs) and Notebooks
+
+IDEs and notebooks allow you to interactively edit and test your code within the same software.
+
+#### RStudio
+
+If you regularly work in R, you might enjoy using [RStudio](https://posit.co/products/open-source/rstudio/). RStudio is available for Windows, MacOS, and Linux. It is also available on Sapelo2 through Open OnDemand. RStudio also recently added support for Python.
+
+##### RStudio resources
+
+- [RStudio Projects](https://support.posit.co/hc/en-us/articles/200526207-Using-RStudio-Projects): easily keep track of a project's working directory and history; easily use version control
+- [R Markdown Notebooks](https://rmarkdown.rstudio.com/lesson-1.html)
+- [GACRC wiki](https://wiki.gacrc.uga.edu/wiki/Rstudio-Sapelo2) for using RStudio on Sapelo2
+
+#### Jupyter
+
+[Jupyter](https://jupyter.org/) is another popular notebook-based IDE, which you can use on your computer or Sapelo2. You can use Jupyter for Python, R, or Julia.
+
+##### Jupyter resources
+- [GACRC wiki](https://wiki.gacrc.uga.edu/wiki/Jupyter-Sapelo2) for using Jupyter on Sapelo2
+
+
