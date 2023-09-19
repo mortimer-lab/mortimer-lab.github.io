@@ -304,6 +304,8 @@ GACRC offers extensive Unix and slurm training in order to set up a new account 
 
 In addition to cluster training, GACRC offers additional training on topics like Python and R. Check out the most up to date training information [here](https://wiki.gacrc.uga.edu/wiki/Training).
 
+Training is also available through [Carpentries@UGA](https://uga-carpentries.github.io/).
+
 ### Online Articles, Tutorials, and Textbooks
 
 #### Unix
