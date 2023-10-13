@@ -15,11 +15,14 @@ We have compiled a list of commonly used software and databases in microbial gen
 
 ### Bactopia
 Bactopia is a pipeline for QC, de novo assembly, annotation, and typing of bacterial genomes from short or long reads.
+
 [Bactopia Documentation](https://bactopia.github.io/)
+
 [Petit et al. 2020](https://journals.asm.org/doi/10.1128/msystems.00190-20)
 
 ### snippy
 Snippy is a pipeline for mapping sequencing reads to a reference genome and performing variant calling. Snippy will also create a core SNP alignment from multiple samples.
+
 [Snippy Documentation](https://github.com/tseemann/snippy)
 
 ## de novo assembly
@@ -29,27 +32,37 @@ There are numerous options for de novo assembly software. Below are some of the 
 ### Short read assembly
 
 #### SPAdes
+
 [SPAdes Documentation](https://github.com/ablab/spades)
+
 [Prjibelski et al. 2020](https://doi.org/10.1002/cpbi.102)
 
 #### SKESA
+
 [SKESA Documentation](https://github.com/ncbi/SKESA)
+
 [Souvorov et al. 2018](https://doi.org/10.1186/s13059-018-1540-z)
 
 ### Long read assembly
 
 #### Trycycler
+
 [Trycycler Documentation](https://github.com/rrwick/Trycycler)
+
 [Wick et al. 2021](https://doi.org/10.1186/s13059-021-02483-z)
 
 #### Flye
+
 [Flye Documentation](https://github.com/fenderglass/Flye)
+
 [Kolmogorov et al. 2019](https://doi.org/10.1038/s41587-019-0072-8)
 
 ### Hybrid assembly
 
 #### Unicycler
+
 [Unicycler Documentation](https://github.com/rrwick/Unicycler)
+
 [Wick et al. 2017](https://doi.org/10.1371/journal.pcbi.1005595)
 
 ## Reference guided assembly
@@ -61,21 +74,29 @@ Reference guided assembly requires choosing an appropriate reference genome, map
 ### Mapping
 
 #### BWA (short reads)
+
 [BWA-MEM Documentation](https://github.com/lh3/bwa)
+
 [Li. 2013](https://doi.org/10.48550/arXiv.1303.3997)
 
 #### Minimap2 (long reads)
+
 [Minimap2 Documentation](https://github.com/lh3/minimap2)
+
 [Li. 2018](https://doi.org/10.1093/bioinformatics/bty191)
 
 ### Variant calling
 
 #### Pilon
+
 [Pilon Documentation](https://github.com/broadinstitute/pilon/wiki)
+
 [Walker et al. 2014](https://doi.org/10.1371/journal.pone.0112963)
 
 #### freebayes
+
 [freebayes Documentation](https://github.com/freebayes/freebayes)
+
 [Garrison and Marth. 2012](https://doi.org/10.48550/arXiv.1207.3907)
 
 ## Annotation
@@ -83,25 +104,35 @@ Reference guided assembly requires choosing an appropriate reference genome, map
 ### Annotating assemblies
 
 #### Prokka
+
 [Prokka Documentation](https://github.com/tseemann/prokka)
+
 [Seemann. 2014](https://doi.org/10.1093/bioinformatics/btu153)
 
 #### bakta
+
 [Bakta Documentation](https://github.com/oschwengers/bakta)
+
 [Schwengers et al. 2021](https://doi.org/10.1099/mgen.0.000685)
 
 #### NCBI Prokaryotic Genome Annotation Pipeline
+
 [PGAP Documentation](https://github.com/ncbi/pgap)
+
 [Li et al. 2021](https://doi.org/10.1093/nar/gkaa1105)
 
 ### Annotating variants in a VCF
 
 #### SnpEff
+
 [SnpEff Documentation](http://pcingola.github.io/SnpEff/)
+
 [Cingolani et al. 2012](https://doi.org/10.4161%2Ffly.19695)
 
 #### BCFtools
+
 [BCFtools csq Documentation](http://www.htslib.org/doc/bcftools.html#csq)
+
 [Danecek and McCarthy. 2017](https://doi.org/10.1093/bioinformatics/btx100)
 
 ## Typing
@@ -143,11 +174,15 @@ The following are general tools for typing bacterial genomes. However, often it 
 Many aligners are available for alignment of short nucleotide or amino acid sequences. This software generally does not scale to whole genome alignment.
 
 ### MAFFT
+
 [MAFFT Documentation](https://mafft.cbrc.jp/alignment/software/)
+
 [Katoh et al. 2002](https://doi.org/10.1093/nar/gkf436)
 
 ### PRANK
+
 [PRANK Documentation](https://ariloytynoja.github.io/prank-msa/)
+
 [Löytynoja. 2014](https://doi.org/10.1007/978-1-62703-646-7_10)
 
 ## Whole genome alignment
@@ -166,16 +201,19 @@ If you have variant calls from several isolates mapped to the same reference gen
 Parsnp creates a rapid core genome alignment from assemblies of closely related isolates.
 
 [Parsnp Documentation](https://harvest.readthedocs.io/en/latest/content/parsnp.html)
+
 [Treangen et al. 2014](https://doi.org/10.1186/s13059-014-0524-x)
 
 #### Mugsy
 
 [Mugsy Documentation](https://mugsy.sourceforge.net/)
+
 [Angiuoli et al. 2011](https://doi.org/10.1093/bioinformatics/btq665)
 
 #### Mauve
 
 [Mauve Documentation](https://darlinglab.org/mauve/mauve.html)
+
 [Darling et al. 2010](https://doi.org/10.1371/journal.pone.0011147)
 
 ### Pan Genome Analysis
@@ -185,12 +223,14 @@ Pan genome analysis software uses annotated assemblies to identify core and acce
 #### Panaroo
 
 [Panaroo Documentation](https://gtonkinhill.github.io/panaroo/)
+
 [Tonkin-Hill et al. 2020](https://doi.org/10.1186/s13059-020-02090-4)
 
 #### Roary
 Note: Roary is no longer being maintained. We have had difficulty installing via conda recently.
 
 [Roary Documentation](https://sanger-pathogens.github.io/Roary/)
+
 [Page et al. 2015](https://doi.org/10.1093/bioinformatics/btv421)
 
 # Phylogenetic analysis
@@ -202,27 +242,35 @@ Phylogenetic trees can be rapidly estimated from core SNP alignments. However, b
 If you are using FastTree for phylogenetic analysis of closely related microbial genomes, be sure to use the [double-precision version](http://www.microbesonline.org/fasttree/#BranchLen) of the software.
 
 [FastTree Documentation](http://www.microbesonline.org/fasttree/)
+
 [Price et al. 2010](https://doi.org/10.1371/journal.pone.0009490)
 
 ### IQ-TREE
 
 [IQ-TREE Documentation](http://www.iqtree.org/)
+
 [Nguyen et al. 2015](https://doi.org/10.1093/molbev/msu300)
 
 ## Recombination-corrected phylogenies
 
 ### Gubbins
+
 [Gubbins Documentation](https://github.com/nickjcroucher/gubbins)
+
 [Croucher et al. 2015](https://doi.org/10.1093/nar/gku1196)
 
 ### ClonalFrameML
+
 [ClonalFrameML Documentation](https://github.com/xavierdidelot/ClonalFrameML)
+
 [Didelot and Wilson. 2015](https://doi.org/10.1371/journal.pcbi.1004041)
 
 ## Dated phylogenies
 
 ### BactDating
+
 [BactDating Documentation](https://xavierdidelot.github.io/BactDating/)
+
 [Didelot et al. 2018](https://doi.org/10.1093/nar/gky783)
 
 # Clustering
@@ -230,13 +278,17 @@ If you are using FastTree for phylogenetic analysis of closely related microbial
 ## Alignment based clustering
 
 ### fastbaps
+
 [fastbaps Documentation](https://github.com/gtonkinhill/fastbaps)
+
 [Tonkin-Hill et al. 2019](https://doi.org/10.1093/nar/gkz361)
 
 ## kmer based clustering
 
 ### PopPUNK
+
 [PopPUNK Documentation](https://poppunk.readthedocs.io/en/latest/)
+
 [Lees et al. 2019](https://doi.org/10.1101%2Fgr.241455.118)
 
 ## Typing based clustering
@@ -250,13 +302,17 @@ For some species, sequence types are assigned to clonal complexes or core genome
 ## Linear Mixed Models
 
 ### pyseer
+
 [pyseer Documentation](https://pyseer.readthedocs.io/en/master/)
+
 [Lees et al. 2018](https://doi.org/10.1093/bioinformatics/bty539)
 
 ## Phylogeny-based GWAS
 
 ### treeWAS
+
 [treeWAS Documentation](https://github.com/caitiecollins/treeWAS)
+
 [Collins and Didelot. 2018](https://doi.org/10.1371/journal.pcbi.1005958)
 
 # Data visualization
@@ -266,16 +322,19 @@ For some species, sequence types are assigned to clonal complexes or core genome
 ### Microreact
 
 [Microreact Website](https://microreact.org/)
+
 [Argimón et al. 2016](https://doi.org/10.1099%2Fmgen.0.000093)
 
 ### iTOL
 
 [iTOL Website](https://itol.embl.de/)
+
 [Letunic and Bork. 2021](https://doi.org/10.1093/nar/gkab301)
 
 ### Phandango
 
 [Phandango Website](http://jameshadfield.github.io/phandango/#/)
+
 [Hadfield et al. 2018](https://doi.org/10.1093/bioinformatics/btx610)
 
 ## Other tree visualization software
@@ -283,6 +342,7 @@ For some species, sequence types are assigned to clonal complexes or core genome
 ### ggtree (R)
 
 [ggtree Documentation](https://bioconductor.org/packages/devel/bioc/vignettes/ggtree/inst/doc/ggtree.html)
+
 [Yu. 2020](https://doi.org/10.1002/cpbi.96)
 
 
@@ -296,18 +356,23 @@ For some species, sequence types are assigned to clonal complexes or core genome
 Note that the *N. gonorrhoeae* PubMLST database is combined with other *Neisseria*
 
 [PubMLST Neisseria Database](https://pubmlst.org/organisms/neisseria-spp)
+
 [Jolley et al. 2018](https://doi.org/10.12688/wellcomeopenres.14826.1)
+
 [Harrison et al. 2020](https://doi.org/10.1093/infdis/jiaa002)
 
 #### Pathogenwatch
 
 [Pathogenwatch: *Neisseria gonorrhoeae*](https://pathogen.watch/genomes/all?genusId=482)
+
 [Sánchez-Busó et al. 2021](https://doi.org/10.1186/s13073-021-00858-2)
 
 #### NG-STAR
 
 NG-STAR is a typing system based on antimicrobial resistance loci in *N. gonorrhoeae*.
+
 [NG-STAR Database](https://ngstar.canada.ca/pages/welcome?lang=en)
+
 [Demczuk et al. 2017](https://doi.org/10.1128/jcm.00100-17)
 
 NG-STAR typing can also be performed using [pyngSTar](https://github.com/leosanbu/pyngSTar) from Leo Sánchez-Busó.
