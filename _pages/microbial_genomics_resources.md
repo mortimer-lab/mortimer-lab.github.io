@@ -71,6 +71,8 @@ Reference guided assembly requires choosing an appropriate reference genome, map
 
 ### Choosing a reference
 
+A closely related, finished reference genome is usually the best choice for mapping and variant calling. For some less diverse species, it is feasible to use a single reference across the species. However, for other species with high nucleotide diversity or large accessory genomes, a reference genome from the same lineage/sequence type/cluster will be most appropriate. When sequencing is performed as part of an experiment, the best choice is always a finished genome of the lab or parental strain used in the experiment.
+
 ### Mapping
 
 #### BWA (short reads)
