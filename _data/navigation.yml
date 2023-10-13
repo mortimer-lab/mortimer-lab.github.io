@@ -10,3 +10,5 @@ main:
      url: /handbook/
    - title: "Contact"
      url: /contact/
+   - title: "Microbial Genomics"
+     url: /microbial_genomics/
