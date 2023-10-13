@@ -173,7 +173,7 @@ Optional onboarding for beginners in bioinformatics:
 
 ### Electronic lab notebooks
 
-In this lab, we use [Obsidian](https://obsidian.md/) as an electronic lab notebook. Please create an Obsidian vault in your OneDrive account and share the folder with me. Also, check out the numerous plugins available for Obsidian.
+In this lab, we use [Obsidian](https://obsidian.md/) as an electronic lab notebook. Please create an Obsidian vault in your OneDrive account and share the folder with me. To save your Obsidian vault in OneDrive, you will need the desktop app available [here](https://ugamail.uga.edu/onedrive_business/). Also, check out the numerous plugins available for Obsidian.
 
 For each project, please create a folder in your notebook which contains the following: an up-to-date note listing locations for raw data, analyses, results, presentations, and manuscripts related to your project; a note outlining research related tasks that are in progress, still to do, or done; and any other project related notes. Ideally, all analyses should be 100% reproducible, so code, commands, and data should primarily reside on the cluster and changes should be tracked using version control with git and pushed to the lab's GitHub regularly. If you receive data from a collaborator, please take detailed notes about who sent you the data, when you received the data, and what they had to say about the data.
 
@@ -231,6 +231,8 @@ What to store here:
 - Lab handbook and website
 
 ## OneDrive
+
+Information on OneDrive resources provided by UGA can be found here: [OneDrive at UGA](https://ugamail.uga.edu/onedrive_business/)
 
 ### Lab shared folder
 - Code and results for published projects
