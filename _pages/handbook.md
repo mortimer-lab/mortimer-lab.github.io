@@ -330,6 +330,7 @@ Training is also available through [Carpentries@UGA](https://uga-carpentries.git
 
 #### Bioinformatics and Microbial Genomics
 - [Rosalind](https://rosalind.info/about/)
+- [ASM Training in NGS for Infectious Disease Applications Webinars](https://asm.org/Webinars/training-ngs-infectious-diseases)
 - [Guide to bacterial genome assembly by Ryan Wick](https://github.com/rrwick/Trycycler/wiki/Guide-to-bacterial-genome-assembly)
 - [An applied genomic epidemiology handbook by Allison Black and Gytis Dudas](https://alliblk.github.io/genepi-book/index.html)
 - [Assembling the perfect bacterial genome](https://doi.org/10.1371/journal.pcbi.1010905)
