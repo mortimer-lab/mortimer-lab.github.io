@@ -123,6 +123,13 @@ A closely related, finished reference genome is usually the best choice for mapp
 
 [Li et al. 2021](https://doi.org/10.1093/nar/gkaa1105)
 
+#### ggCaller
+
+Rather than annotating individual genome assemblies, ggCaller uses pangenome graphs for annotation and clustering.
+
+[ggCaller Documentation](https://github.com/samhorsfield96/ggCaller)
+[Horsfield et al. 2023](https://doi.org/10.1101/gr.277733.123)
+
 ### Annotating variants in a VCF
 
 #### SnpEff
