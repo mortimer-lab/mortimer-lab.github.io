@@ -483,4 +483,42 @@ If you regularly work in R, you might enjoy using [RStudio](https://posit.co/pro
 ##### Jupyter resources
 - [GACRC wiki](https://wiki.gacrc.uga.edu/wiki/Jupyter-Sapelo2) for using Jupyter on Sapelo2
 
+## Computing on Sapelo2
 
+### Logging in to Sapelo2
+
+If you are trying to connect to Sapelo2 off campus, you must be logged in to the VPN. Your UGA MyID and password are used to connect to Sapelo2. In the command line, you can type `ssh UGAmyID@sapelo2.gacrc.uga.edu`, enter your password, and accept the push notification through Duo.
+
+You can also use a config file (`.ssh/config`) to save the Sapelo2 host information, so that you don't need to type it every time. For example, with the following config file, you can log in with the command `ssh sapelo2`.
+
+```
+Host sapelo2
+	HostName sapelo2.gacrc.uga.edu
+	User tdm
+```
+
+[GACRC Documentation: Connecting to Sapelo2](https://wiki.gacrc.uga.edu/wiki/Connecting)
+
+### Software on Sapelo2
+
+#### Centrally Installed Software
+
+GACRC centrally installs software packages on Sapelo2 through software modules or singularity containers. 
+
+[GACRC Documentation: Software](https://wiki.gacrc.uga.edu/wiki/Software_on_Sapelo2)
+
+#### Conda and Mamba
+
+If the software you would like to use is not already installed on Sapelo2, consider using conda (or mamba, a faster version of conda) to install the software in a dedicated environment. 
+
+Steps to install conda and mamba:
+1. Download miniforge: `wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
+2. Run the installation script: `bash Miniforge3-Linux-x86_64.sh`
+3. Mambaforge will be installed in your home directory
+4. Choose `yes` when asked if you would like the installer to initialize Mambaforge
+5. Exit and reconnect to the cluster
+
+Steps to install specific software:
+1. Create a new conda environment: `mamba create -n name_of_environment`
+2. Activate the environment: `mamba activate name_of_environment`
+3. Install software: `mamba install name_of_software`
