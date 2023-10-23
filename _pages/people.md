@@ -13,6 +13,13 @@ Department of Population Health<br/>
 College of Veterinary Medicine, University of Georgia<br/><br/><br/><br/><br/><br/>
 
 
+<a href="/people/ShriyaGarg">
+<img src="/assets/images/Garg_headshot.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
+</a>
+
+__Shriya Garg__<br/>
+Undergraduate Student Assistant<br/>
+
 <a href="/people/SelinaSun">
 <img src="/assets/images/Sun_headshot.jpg" width="30%" title="Selina Sun" align="left" hspace="30">
 </a>
