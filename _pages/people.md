@@ -10,7 +10,8 @@ title: ""
 __Tatum Mortimer__<br/>
 Assistant Professor<br/>
 Department of Population Health<br/>
-College of Veterinary Medicine, University of Georgia<br/><br/><br/><br/><br/><br/>
+College of Veterinary Medicine<br/>
+University of Georgia<br/><br/><br/><br/><br/><br/>
 
 
 <a href="/people/ShriyaGarg">
@@ -18,7 +19,7 @@ College of Veterinary Medicine, University of Georgia<br/><br/><br/><br/><br/><b
 </a>
 
 __Shriya Garg__<br/>
-Undergraduate Student Assistant<br/><br/><br/><br/><br/><br/><br/>
+Undergraduate Student Assistant<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/SelinaSun">
 <img src="/assets/images/Sun_headshot.jpg" width="30%" title="Selina Sun" align="left" hspace="30">
