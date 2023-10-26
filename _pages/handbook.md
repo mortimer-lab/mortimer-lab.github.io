@@ -522,3 +522,50 @@ Steps to install specific software:
 1. Create a new conda environment: `mamba create -n name_of_environment`
 2. Activate the environment: `mamba activate name_of_environment`
 3. Install software: `mamba install name_of_software`
+
+## Reading and citing the scientific literature
+
+### Finding relevant articles
+
+#### Primary research articles and review articles
+
+Primary research articles describe original research, and you should aim to stay up to date on published primary literature in your field. However, review articles can be a helpful place to start to get an overview of a new field and find citations to relevant primary literature.
+
+#### Databases and Alerts
+
+Popular databases:
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Google Scholar](https://scholar.google.com/)
+
+Many databases also have the option to create citation alerts for particular search terms, which will send a digest of relevant literature via email. UGA has instructions on creating alerts for various databases [here](https://guides.libs.uga.edu/citation-alerts).
+
+### Peer-reviewed articles and preprints
+
+#### What is a preprint?
+
+A preprint is a version of an article that has been shared publicly but has not yet been peer reviewed. Popular preprint servers in biology include [bioRxiv](https://www.biorxiv.org/) and [medRxiv](https://www.medrxiv.org/). In the Mortimer Lab, we aim to publish all articles as preprints prior to or at the time of submission to a peer-reviewed journal.
+
+#### What is peer review?
+
+In peer-reviewed journals, articles are sent out for review to a few experts in the field before publication. Most reviews are single-blind peer review where reviewers know the identity of the authors, but reviewers remain anonymous and reviews are not published alongside the article. However, journals are experimenting with other peer review mechanisms, including double blind peer review (both authors and reviewers are unknown to one another), signed peer review (where reviewers have the option to reveal their identity to authors), and publication of reviewer names and comments alongside the article.
+
+There are also venues for post-publication peer review like PubPeer, which facilitates anonymous comments on published articles.
+
+If you have been asked to review an article, here is some advice on performing peer review:
+- [PLOS: How to Write a Peer Review](https://plos.org/resource/how-to-write-a-peer-review/)
+
+#### Open access vs. subscription journals
+
+Journal articles are either published open access, meaning they are available to anyone at no cost, or through a subscription to the journal. Some journals are fully open access (e.g. journals in the PLOS family, mBio), and some journals have the option to publish open access for an extra fee paid by authors. In the Mortimer Lab, we aim to publish all articles open access.
+
+UGA has [several options](https://www.libs.uga.edu/fulltext) to access the full text of journals requiring a subscription online. Articles presenting work funded by NIH are also required to be available through [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) within 12 months of publication. If you cannot get access to the article through any available databases, you can try emailing the corresponding author of the article for a copy.
+
+### Reference managers
+
+To keep track of papers you've read and cite them in your own work, it can be helpful to use a reference manager. A good reference manager will have browser plugins to easily save citation information and PDFs, the ability to organize your citations, and functions or plugins to export citations or insert them into your document in the correct format.
+
+[Zotero](https://www.zotero.org/) is a free, open source citation manager with browser, Microsoft Word, and Google Doc integration. Here at University of Georgia, we also have access to Refworks and EndNote. You can find out how to access these tools through [UGA University Libraries](https://www.libs.uga.edu/citations).
+
+### How to read a scientific article
+
+- [Ten simple rules for reading a scientific paper](https://doi.org/10.1371/journal.pcbi.1008032)
