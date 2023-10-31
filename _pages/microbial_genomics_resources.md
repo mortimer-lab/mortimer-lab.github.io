@@ -359,7 +359,7 @@ For some species, sequence types are assigned to clonal complexes or core genome
 
 ## *Neisseria gonorrhoeae*
 
-### Databases
+### Databases and Tools
 
 #### PubMLST
 Note that the *N. gonorrhoeae* PubMLST database is combined with other *Neisseria*
@@ -384,7 +384,9 @@ NG-STAR is a typing system based on antimicrobial resistance loci in *N. gonorrh
 
 [Demczuk et al. 2017](https://doi.org/10.1128/jcm.00100-17)
 
-NG-STAR typing can also be performed using [pyngSTar](https://github.com/leosanbu/pyngSTar) from Leo Sánchez-Busó.
+#### pyngoST
+
+NG-STAR, MLST, and NG-MAST typing can be performed from genome assemblies using [pyngoST](https://github.com/leosanbu/pyngoST) from [Sánchez-Busó et al.](https://doi.org/10.1101/2023.10.23.563537).
 
 ### Divergent and mosaic alleles in *N. gonorrhoeae*
 
