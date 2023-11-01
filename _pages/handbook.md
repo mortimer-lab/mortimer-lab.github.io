@@ -156,7 +156,7 @@ For some academic journals, you may need to access articles through UGA's subscr
 4. Send me a short bio and a picture of yourself for the lab website
 
 Optional onboarding for beginners in bioinformatics:
-5. Complete tutorials in [unix](#unix), [git](#git), and [python](#python)
+5. Complete tutorials in [unix](#unix), [git](#git), and [python](#python).
 6. Try to complete as many problems as you can through [Rosalind](https://rosalind.info/problems/locations/). During our first few weekly meetings, we can discuss where you got stuck, what you think the problem is, and work through a solution together. Feel free to discuss the problems with other lab members as well!
 
 ## Before you go
@@ -319,6 +319,7 @@ Training is also available through [Carpentries@UGA](https://uga-carpentries.git
 #### Python
 - [Software Carpentry- Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.html)
 
 #### R
 - [R for Data Science](https://r4ds.had.co.nz/)
