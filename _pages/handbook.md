@@ -432,6 +432,7 @@ When you are working on a cluster system or in the unix shell, it can be helpful
 
 ##### Vim resources and plugins
 
+- [MIT's Missing Semester of Your CS Education: Vim](https://missing.csail.mit.edu/2020/editors/): background and tutorial for Vim
 - [vim adventures](https://vim-adventures.com/): a game that will help you learn vim keyboard shortcuts as a beginner
 - If you decide to use vim, you should consider installing [neovim](https://neovim.io/), which is a refactored version of Vim that supports up-to-date syntax highlighting and plugin management.
 - [Nvim-R](https://github.com/jamespeapen/Nvim-R/wiki): a plugin for editing R code
