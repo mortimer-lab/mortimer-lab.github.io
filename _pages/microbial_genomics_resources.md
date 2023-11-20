@@ -308,6 +308,14 @@ For some species, sequence types are assigned to clonal complexes or core genome
 
 # Genome Wide Association Studies
 
+## Input data
+
+### panfeed
+
+[panfeed Documentation](https://github.com/microbial-pangenomes-lab/panfeed)
+
+[Sommer et al. 2023](https://doi.org/10.1099/mgen.0.001129)
+
 ## Linear Mixed Models
 
 ### pyseer
@@ -354,6 +362,9 @@ For some species, sequence types are assigned to clonal complexes or core genome
 
 [Yu. 2020](https://doi.org/10.1002/cpbi.96)
 
+## Data visualization tips
+
+[Friends Don't Let Friends](https://github.com/cxli233/FriendsDontLetFriends)
 
 # Species specific tools and tips
 
