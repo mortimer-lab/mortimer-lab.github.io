@@ -128,6 +128,7 @@ A closely related, finished reference genome is usually the best choice for mapp
 Rather than annotating individual genome assemblies, ggCaller uses pangenome graphs for annotation and clustering.
 
 [ggCaller Documentation](https://github.com/samhorsfield96/ggCaller)
+
 [Horsfield et al. 2023](https://doi.org/10.1101/gr.277733.123)
 
 ### Annotating variants in a VCF
@@ -200,8 +201,8 @@ Many aligners are available for alignment of short nucleotide or amino acid sequ
 
 If you have variant calls from several isolates mapped to the same reference genome, you can incorporate those variant calls into your reference to create pseudogenomes of the same length. These pseudogenomes can be concatenated into the same file to create an alignment. Creation of alignments from VCFs is often done with custom scripts. However, pipelines like [snippy](https://github.com/tseemann/snippy#core-snp-phylogeny) also incorporate this step. If you plan to write such a script, please keep the following in mind:
 
-- You should not assume that the reference allele is supported if the VCF includes only variants sites. Missing data from regions with deletions, ambiguous calls, or low coverage should also be incorporated into the reference sequence; this often requires specifying that variant callers output all reference sites to a VCF rather than only variant sites.
-- You should also filter variants based on coverage and quality into your script.
+- You should not assume that the reference allele is supported if the VCF includes only variant sites. Missing data from regions with deletions, ambiguous calls, or low coverage should also be incorporated into the reference sequence; this often requires specifying that variant callers output all reference sites to a VCF rather than only variant sites.
+- You should also filter variants based on coverage and quality in your script.
 - It can also be useful to mask regions that are known to be problematic for short read mapping and variant calling such as repetitive regions. For example, PE/PPE genes are often excluded from alignments of *Mycobacterium* genomes.
 
 ### Alignment of assemblies
@@ -310,6 +311,10 @@ For some species, sequence types are assigned to clonal complexes or core genome
 
 ## Input data
 
+### unitig-caller
+
+[unitig-caller Documentation](https://github.com/bacpop/unitig-caller)
+
 ### panfeed
 
 [panfeed Documentation](https://github.com/microbial-pangenomes-lab/panfeed)
@@ -365,6 +370,22 @@ For some species, sequence types are assigned to clonal complexes or core genome
 ## Data visualization tips
 
 [Friends Don't Let Friends](https://github.com/cxli233/FriendsDontLetFriends)
+
+# Databases
+
+## Querying Databases
+
+### Searching bacterial genomes from ENA
+Search >600k bacterial genomes (all sequenced genomes prior to 2019)
+
+[Blackwell et al. 2022](https://doi.org/10.1099/acmi.ac2021.po0143)
+
+[Břinda et al. 2023](https://doi.org/10.1101/2023.04.15.536996)
+
+### Branchwater Metagenome Query
+Search metagenomes from NBI's SRA
+
+[Branchwater Metagenome Query](https://branchwater.sourmash.bio/)
 
 # Species specific tools and tips
 
