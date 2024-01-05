@@ -145,6 +145,8 @@ For some academic journals, you may need to access articles through UGA's subscr
 ## Wellness resources
 
 - [UGA Student Care and Outreach](https://sco.uga.edu/resources-health/)
+- [Food Services at UGA](https://transfer.uga.edu/where_to_go/food_services_other_necessities/)
+- [UGA Student Financial Resources](https://sco.uga.edu/resources-financial/)
 
 # Joining and leaving the lab
 
