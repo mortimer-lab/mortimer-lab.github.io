@@ -345,7 +345,13 @@ Training is also available through [Carpentries@UGA](https://uga-carpentries.git
 ### Textbooks Available in the Lab
 
 
-## Biosafety
+## Lab Safety
+
+### Severe Weather
+
+The severe weather and tornado gathering space is in the admin hallway of PDRC.
+
+### Biosafety
 
 Coming soon!
 
