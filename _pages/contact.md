@@ -17,10 +17,6 @@ Currently, the lab is affiliated with the College of Veterinary Medicine's [Comp
 
 If you are interested in a postdoctoral position, contact me about opportunities. In your email, please include a brief cover letter outlining your previous research experience and interests in the lab, a CV, and contact information for three references.
 
-### Current Openings
-
-[Research Professional II](https://www.ugajobsearch.com/postings/348905)
-
 **Email:** <a href="mailto:tatum.mortimer@uga.edu" target="_blank">tatum.mortimer@uga.edu</a>
 
 **Address:** <br>
