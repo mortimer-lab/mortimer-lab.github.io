@@ -337,7 +337,13 @@ For some species, sequence types are assigned to clonal complexes or core genome
 
 [Collins and Didelot. 2018](https://doi.org/10.1371/journal.pcbi.1005958)
 
-# Data visualization
+# Data analysis and visualization
+
+## Python packages
+
+### Polars
+
+[Polars website](https://pola.rs/)
 
 ## Browser-based annnotated phylogenies
 
