@@ -212,6 +212,8 @@ Parsnp creates a rapid core genome alignment from assemblies of closely related 
 
 [Parsnp Documentation](https://harvest.readthedocs.io/en/latest/content/parsnp.html)
 
+[Kille et al. 2024](https://www.biorxiv.org/content/10.1101/2024.01.30.577458v1)
+
 [Treangen et al. 2014](https://doi.org/10.1186/s13059-014-0524-x)
 
 #### Mugsy
