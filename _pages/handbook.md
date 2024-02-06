@@ -351,9 +351,10 @@ Training is also available through [Carpentries@UGA](https://uga-carpentries.git
 
 The severe weather and tornado gathering space is in the admin hallway of PDRC.
 
-### Chemical Safety
+### Laboratory and Chemical Safety
 
-If you will be working at the bench, please complete the following chemical safety training available through UGA's PEP:
+If you will be working at the bench, please complete the safety training available through UGA's [PEP](https://hr.uga.edu/pep/):
+- Lab Safety Basics
 - [UGA Hazardous Waste training (annual)](https://esd.uga.edu/rcra-compliance/hazardous-waste-training)
 - [UGA Right to Know Training (one-time): Phase 1](https://esd.uga.edu/right-to-know-training)
 - [UGA Right to Know Training (annual): Phase 2](https://esd.uga.edu/right-to-know-training)
