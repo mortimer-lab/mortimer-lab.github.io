@@ -78,7 +78,7 @@ The lab primarily communicates via a [slack workspace](https://mortimer-lab.slac
 
 If my office door is open, please feel free to come in. If I'm out of office or my office door is closed, it is best to send me a message on slack. I expect that everyone checks in on the lab slack a few times a day on days you are working. You do not need to respond to messages at night, on the weekend, or on vacation even if other lab members are working during those times.
 
-The lab also has a shared calendar (which doesn't exist just yet). Everyone should feel free to add or update events on the calendar that may be of interest to the lab, including lab meetings, seminars, and conference abstract deadlines. I will also keep the calendar up to date with days that I will be traveling for work or on vacation. 
+The lab also has a shared calendar. Everyone should feel free to add or update events on the calendar that may be of interest to the lab, including lab meetings, seminars, and conference abstract deadlines. I will also keep the calendar up to date with days that I will be traveling for work or on vacation. 
 
 If you would like to share your planned vacations on the lab calendar or update your slack status when you are away or sick, you are welcome to do so. However, I want to emphasize that this is not a requirement, and while you should let me know when you will be away from the lab, you do not have to share your specific schedule or reasons for being out with the whole lab.
 
@@ -90,7 +90,7 @@ For junior trainees, we will have weekly one-on-one meetings; after one year in 
 
 ### Yearly individual goals meeting
 
-In the spring, we will use one of our individual meetings to complete any required yearly evaluations and discuss your long-term research and career goals. If you do not have a required written evaluation as part of your training program, I would suggest using an [individual development plan](https://myidp.sciencecareers.org/).
+In the spring, we will use one of our individual meetings to complete any required yearly evaluations and discuss your long-term research and career goals. If you do not have a required written evaluation as part of your training program, I would suggest using an [individual development plan](https://myidp.sciencecareers.org/). Unless your program has a different timeline for yearly evaluations, please plan to have this meeting during our first individual meeting after UGA's spring break.
 
 ### Lab meeting
 
@@ -99,6 +99,17 @@ We have a weekly, one hour lab meeting. We will use this the first 10-15 minutes
 ### Yearly lab goals meeting
 
 In the fall, we will schedule a half day lab meeting to discuss our projects and goals as a lab. During this time, I will also give a 'state of the lab' update on lab achievements, funding, and lab directions for the next year. We will also use this time to review this handbook to make sure it is up-to-date, useful, and reflects our shared values and expectations.
+
+### Yearly lab organization and cleaning
+
+We will have a day dedicated to lab organization and cleaning scheduled during the last week of classes in the spring semester on our normal lab meeting day. All lab members are expected to participate during the time you would normally be in the lab. Our goals for the day include:
+- Ensuring your lab notebook is organized and up-to-date and creating a compressed back-up to send to me
+- Organizing and documenting your data and code for ongoing projects
+- Reviewing lab inventory in LabSuit and our sample inventory spreadsheets
+- Cleaning and organizing the wet lab and dry lab spaces
+- Double checking that we are complying with all lab safety requirements
+
+We will also have a lab lunch on me!
 
 ## Seminars
 
@@ -122,7 +133,7 @@ The lab's [slack workspace](https://mortimer-lab.slack.com) is the main method o
 
 ## Calendar
 
-Coming soon!
+We have a shared lab Outlook calendar. Please request access if you have not been added to the calendar.
 
 ## GitHub
 
@@ -190,30 +201,30 @@ If you are working on sample collection or sequencing in the wet lab, you can ke
 Information on GACRC storage can be found [here](https://wiki.gacrc.uga.edu/wiki/Disk_Storage).
 
 ### Home directory
-Path: /home/{user_name}
-Space: 200 GB
-Back up: backed up
-What to store here: user specific configuration files and software installation
+- Path: /home/{user_name}
+- Space: 200 GB
+- Back up: backed up
+- What to store here: user specific configuration files and software installation
 
 ### Scratch directory
-Path: /scratch/{user_name} 
-Space: no quota
-Back up: not backed up, 30 day purge
-What to store here: active data analysis
+- Path: /scratch/{user_name} 
+- Space: no quota
+- Back up: not backed up, 30 day purge
+- What to store here: active data analysis
 
 ### Work directory
-Path: /work/tdmlab
-Space: 500 GB/10,000 files
-Back up: not backed up, no purge
-What to store here: shared, often used resources (e.g. shared software installation, copies of shared datasets actively being analyzed)
+- Path: /work/tdmlab
+- Space: 500 GB/10,000 files
+- Back up: not backed up, no purge
+- What to store here: shared, often used resources (e.g. shared software installation, copies of shared datasets actively being analyzed)
 
 ### Project directory
-Path: /project/tdmlab
-Space: 1 TB
-Back up: backed up, however only attached to transfer nodes
-What to store here:
-- in a user specific directory: data and code for unpublished projects or published projects with ongoing follow up
-- shared wgs datasets with the following structure:
+- Path: /project/tdmlab
+- Space: 1 TB
+- Back up: backed up, however only attached to transfer nodes
+- What to store here:
+  - in a user specific directory: data and code for unpublished projects or published projects with ongoing follow up
+  - shared wgs datasets with the following structure:
 ```
 /project/tdmlab/genus_species/
 	assemblies/
@@ -381,24 +392,24 @@ Graduate students and postdocs can expect to attend at least one conference per 
 
 The following are conferences that you might consider attending:
 #### Microbiology
-[ASM Microbe](https://asm.org/Events/ASM-Microbe/Home)
-[ASM Southeastern Branch Conference](https://sebasm.org/)
-[Boston Bacterial Meeting](https://bostonbacterial.org/)
+- [ASM Microbe](https://asm.org/Events/ASM-Microbe/Home)
+- [ASM Southeastern Branch Conference](https://sebasm.org/)
+- [Boston Bacterial Meeting](https://bostonbacterial.org/)
 #### Microbial Genomics
-[Lake Arrowhead Microbial Genomics](https://www.lamg.info/)
-[Applied Bioinformatics and Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/)
-[Microbial Population Biology Gordon Research Conference](https://www.grc.org/microbial-population-biology-conference/)
+- [Lake Arrowhead Microbial Genomics](https://www.lamg.info/)
+- [Applied Bioinformatics and Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/)
+- [Microbial Population Biology Gordon Research Conference](https://www.grc.org/microbial-population-biology-conference/)
 #### Antimicrobial Resistance
-[Antimicrobial Resistance: Genomes, Big Data and Emerging Technologies](https://coursesandconferences.wellcomeconnectingscience.org/)
+- [Antimicrobial Resistance: Genomes, Big Data and Emerging Technologies](https://coursesandconferences.wellcomeconnectingscience.org/)
 #### Sexually Transmitted Infections
-[CDC STD Prevention](https://www.cdc.gov/stdconference/default.htm)
-[STI & HIV World Congress](https://stihiv2025.org/)
-[International Pathogenic Neisseria Conference](https://neisseria.org/ipnc/)
-[NgoRS Conference](https://ngosociety.org/)
-[Infectious Diseases Society for Obstetrics and Gynecology Annual Meeting](https://www.idsog.org/)
+- [CDC STD Prevention](https://www.cdc.gov/stdconference/default.htm)
+- [STI & HIV World Congress](https://stihiv2025.org/)
+- [International Pathogenic Neisseria Conference](https://neisseria.org/ipnc/)
+- [NgoRS Conference](https://ngosociety.org/)
+- [Infectious Diseases Society for Obstetrics and Gynecology Annual Meeting](https://www.idsog.org/)
 #### Evolution
-[Evolution](https://www.evolutionmeetings.org/)
-[Society for Molecular Biology and Evolution Meetings](https://www.smbe.org/smbe/MEETINGS.aspx)
+- [Evolution](https://www.evolutionmeetings.org/)
+- [Society for Molecular Biology and Evolution Meetings](https://www.smbe.org/smbe/MEETINGS.aspx)
 
 ### Funding Opportunities
 
@@ -419,15 +430,15 @@ The following are conferences that you might consider attending:
 ### Job Boards
 
 #### Science job boards
-[Nature Careers](https://www.nature.com/naturecareers/)
-[Science Careers](https://jobs.sciencecareers.org/)
-[jobRxiv](https://jobrxiv.org/)
+- [Nature Careers](https://www.nature.com/naturecareers/)
+- [Science Careers](https://jobs.sciencecareers.org/)
+- [jobRxiv](https://jobrxiv.org/)
 #### Microbiology or infectious diseases job boards
-[American Society for Microbiology](https://www.asmcareerconnections.org/jobs/)
-[Infections Disease Dynamics Jobs](https://iddjobs.org/)
-[Microbial Sciences Initiative Job Board (New England/remote)](https://msi.harvard.edu/blog)
+- [American Society for Microbiology](https://www.asmcareerconnections.org/jobs/)
+- [Infections Disease Dynamics Jobs](https://iddjobs.org/)
+- [Microbial Sciences Initiative Job Board (New England/remote)](https://msi.harvard.edu/blog)
 #### Ecology and evolution job boards
-[Ecoevojobs (crowdsourced google doc)](https://www.ecoevojobs.net/)
+- [Ecoevojobs (crowdsourced google doc)](https://www.ecoevojobs.net/)
 
 # I need help with...
 
