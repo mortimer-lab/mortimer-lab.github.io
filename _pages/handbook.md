@@ -358,6 +358,10 @@ Training is also available through [Carpentries@UGA](https://uga-carpentries.git
 
 ## Lab Safety
 
+### First Aid Kits
+
+There are first aid kits in both the dry lab space and wet lab space. In the dry lab (Room 121), the first aid kit is located on the bottom shelf of the bookshelf. In the wet lab (Room 150), the first aid kit is located on the wall next to the door.
+
 ### Severe Weather
 
 The severe weather and tornado gathering space is in the admin hallway of PDRC.
