@@ -3,7 +3,7 @@ permalink: /people/ShriyaGarg/
 title: ""
 author:
   name   : "Shriya Garg"
-  avatar : "/assets/images/Garg_headshot.jpg"
+  avatar : "/assets/images/Garg_headshot_new.jpg"
   bio    : Undergraduate Student Assistant
   links:
 #    - label: "Email"

@@ -15,7 +15,7 @@ University of Georgia<br/><br/><br/><br/><br/><br/>
 
 
 <a href="/people/ShriyaGarg">
-<img src="/assets/images/Garg_headshot.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
+<img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
 </a>
 
 __Shriya Garg__<br/>
