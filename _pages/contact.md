@@ -11,7 +11,7 @@ If you are an undergraduate interested in working in the lab, please reach out t
 
 ### Graduate students
 
-Currently, the lab is affiliated with the College of Veterinary Medicine's [Comparative Biomedical Sciences](https://vet.uga.edu/education/phd-and-masters-degree-programs/comparative-biomedical-sciences-graduate-program/) graduate program. Starting Fall 2024, we will also be affiliated with UGA's [Integrated Life Sciences](https://ils.uga.edu/) graduate program.
+The lab is affiliated with UGA's [Integrated Life Sciences](https://ils.uga.edu/) graduate program (Microbiology and Bioinformatics) and the College of Veterinary Medicine's [Comparative Biomedical Sciences](https://vet.uga.edu/education/phd-and-masters-degree-programs/comparative-biomedical-sciences-graduate-program/) graduate program. 
 
 ### Postdoctoral researchers
 
