@@ -143,6 +143,12 @@ We share all project related code through the lab [GitHub organization](https://
 
 UGA provides up to 5TB of storage through [Microsoft OneDrive](https://ugamail.uga.edu/onedrive_business/). We have a shared lab folder, and I would also encourage you to use your individual account for automatic back up of your work-related files. 
 
+## Adobe Creative Cloud
+
+UGA faculty and staff have free access to Adobe Creative Cloud. For more information, see the CVM intranet article [here](https://in.vet.uga.edu/display/ITPublic/Adobe+Creative+Cloud).
+
+UGA students have access to a 4 week, renewable license. Request access to a license [here](https://uga.teamdynamix.com/TDClient/3190/eitsclientportal/Requests/TicketRequests/NewForm?ID=ZGwHLoHDpVk_&RequestorType=Service).
+
 ## GACRC Sapelo2 Cluster
 
 The majority of your work will take place on UGA's research cluster Sapelo2. Once your training progresses to work on the cluster, please request an [account](https://gacrc.uga.edu/accounts/). Depending on your prior experience working on clusters, you may be required to attend one or more trainings before being given access.
