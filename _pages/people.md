@@ -19,7 +19,7 @@ University of Georgia<br/><br/><br/><br/><br/><br/>
 </a>
 
 __Shanita Smrity__<br/>
-Graduate Student<br/>
+Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/ShriyaGarg">

@@ -3,7 +3,7 @@ permalink: /people/ShanitaSmrity/
 title: ""
 author:
   name   : "Shanita Smrity"
-  avatar : "/assets/images/Smrity_headshot_new.jpg"
+  avatar : "/assets/images/Smrity_headshot.jpg"
   bio    : Graduate Research Assistant, Bioinformatics
   links:
     - label: "Google Scholar"
