@@ -14,6 +14,14 @@ College of Veterinary Medicine<br/>
 University of Georgia<br/><br/><br/><br/><br/><br/>
 
 
+<a href="/people/ShanitaSmrity">
+<img src="/assets/images/Smrity_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
+</a>
+
+__Shanita Smrity__<br/>
+Graduate Student<br/>
+Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/ShriyaGarg">
 <img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
 </a>
