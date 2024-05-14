@@ -22,6 +22,14 @@ __Shanita Smrity__<br/>
 Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<a href="/people/LindseyGuerra">
+<img src="/assets/images/Guerra_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
+</a>
+
+__Lindsey Guerra__<br/>
+GVSP Scholar<br/>
+College of Veterinary Medicine<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/ShriyaGarg">
 <img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
 </a>
