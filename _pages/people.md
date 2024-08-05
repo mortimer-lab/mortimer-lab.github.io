@@ -14,6 +14,14 @@ College of Veterinary Medicine<br/>
 University of Georgia<br/><br/><br/><br/><br/><br/>
 
 
+<a href="/people/FarahSaeed">
+<img src="/assets/images/Saeed_headshot.jpg" width="30%" title="Farah Saeed" align="left" hspace="30">
+</a>
+
+__Farah Saeed__<br/>
+Graduate Research Assistant<br/>
+Computer Science<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/ShanitaSmrity">
 <img src="/assets/images/Smrity_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
 </a>
@@ -21,14 +29,6 @@ University of Georgia<br/><br/><br/><br/><br/><br/>
 __Shanita Smrity__<br/>
 Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<a href="/people/LindseyGuerra">
-<img src="/assets/images/Guerra_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
-</a>
-
-__Lindsey Guerra__<br/>
-GVSP Scholar<br/>
-College of Veterinary Medicine<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/ShriyaGarg">
 <img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
@@ -43,3 +43,13 @@ Undergraduate Student Assistant<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/
 
 __Selina Sun__<br/>
 Undergraduate Student Assistant<br/>
+
+# Lab Alumni
+
+<a href="/people/LindseyGuerra">
+<img src="/assets/images/Guerra_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
+</a>
+
+__Lindsey Guerra__<br/>
+GVSP Scholar<br/>
+College of Veterinary Medicine
