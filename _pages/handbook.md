@@ -164,6 +164,7 @@ For some academic journals, you may need to access articles through UGA's subscr
 - [UGA Student Care and Outreach](https://sco.uga.edu/resources-health/)
 - [Food Services at UGA](https://transfer.uga.edu/where_to_go/food_services_other_necessities/)
 - [UGA Student Financial Resources](https://sco.uga.edu/resources-financial/)
+- [Compiled Studnet Resources at UGA](https://instruction.uga.edu/resources/student/)
 
 # Joining and leaving the lab
 
@@ -434,6 +435,7 @@ The following are conferences that you might consider attending:
 
 - NSF Graduate Research Fellowship Program (GRFP)
 - NIH F30/F31
+- [UGA Travel Grants](https://grad.uga.edu/funding/travel-grants/)
 
 #### Undergraduate
 
