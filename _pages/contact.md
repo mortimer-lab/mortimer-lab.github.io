@@ -7,7 +7,7 @@ Thank you for you interest in the Mortimer Lab at UGA!
 
 ### Undergraduate students
 
-If you are an undergraduate interested in working in the lab, please reach out through email. Whether or not you plan to register for research credit, the [CURO Getting Started Guide](https://curo.uga.edu/students/getting_started_guide.html) is a good resource for appropriate ways to contact a faculty mentor.
+If you are an undergraduate interested in working in the lab, please fill out this form: [Mortimer Lab Undergraduate Research Interest Form](https://forms.gle/HV45TkCrYgudyNjY6). I will be in touch with interested students approximately one month before the end of the semester to discuss research opportunities for the following semester.
 
 ### Graduate students
 
