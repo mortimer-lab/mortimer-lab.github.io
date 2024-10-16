@@ -615,7 +615,7 @@ UGA has [several options](https://www.libs.uga.edu/fulltext) to access the full 
 
 To keep track of papers you've read and cite them in your own work, it can be helpful to use a reference manager. A good reference manager will have browser plugins to easily save citation information and PDFs, the ability to organize your citations, and functions or plugins to export citations or insert them into your document in the correct format.
 
-[Zotero](https://www.zotero.org/) is a free, open source citation manager with browser, Microsoft Word, and Google Doc integration. Here at University of Georgia, we also have access to Refworks and EndNote. You can find out how to access these tools through [UGA University Libraries](https://www.libs.uga.edu/citations).
+[Zotero](https://www.zotero.org/) is a free, open source citation manager with browser, Microsoft Word, and Google Doc integration. We have a shared lab Zotero library. [Mendeley](https://www.mendeley.com/) is another free citation manager. Here at University of Georgia, we also have access to Refworks and EndNote. You can find out how to access these tools through [UGA University Libraries](https://www.libs.uga.edu/citations).
 
 ### How to read a scientific article
 
