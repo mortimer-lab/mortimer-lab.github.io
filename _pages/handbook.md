@@ -360,8 +360,19 @@ Training is also available through [Carpentries@UGA](https://uga-carpentries.git
 #### Statistics
 - [Statistical Rethinking by Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
 
-### Textbooks Available in the Lab
+### Books Available in the Lab
 
+- Statistical Rethinking
+- Evolutionary Dynamics
+- Microbiology: an evolving science
+- A Biologist's Guide to Mathematical Modeling in Ecology and Evolution
+- Modeling Evolution
+- The Practice of Programming
+- Bioinformatics Data Skills
+- The C Programming Language
+- The Academic Job Search Handbook
+- The Professor is In
+- NextGen PhD
 
 ## Lab Safety
 
