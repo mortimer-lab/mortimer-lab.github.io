@@ -421,18 +421,22 @@ The following are conferences that you might consider attending:
 - [ASM Microbe](https://asm.org/Events/ASM-Microbe/Home)
 - [ASM Southeastern Branch Conference](https://sebasm.org/)
 - [Boston Bacterial Meeting](https://bostonbacterial.org/)
+
 #### Microbial Genomics
 - [Lake Arrowhead Microbial Genomics](https://www.lamg.info/)
 - [Applied Bioinformatics and Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/)
 - [Microbial Population Biology Gordon Research Conference](https://www.grc.org/microbial-population-biology-conference/)
+
 #### Antimicrobial Resistance
 - [Antimicrobial Resistance: Genomes, Big Data and Emerging Technologies](https://coursesandconferences.wellcomeconnectingscience.org/)
+
 #### Sexually Transmitted Infections
 - [CDC STD Prevention](https://www.cdc.gov/stdconference/default.htm)
 - [STI & HIV World Congress](https://stihiv2025.org/)
 - [International Pathogenic Neisseria Conference](https://neisseria.org/ipnc/)
 - [NgoRS Conference](https://ngosociety.org/)
 - [Infectious Diseases Society for Obstetrics and Gynecology Annual Meeting](https://www.idsog.org/)
+
 #### Evolution
 - [Evolution](https://www.evolutionmeetings.org/)
 - [Society for Molecular Biology and Evolution Meetings](https://www.smbe.org/smbe/MEETINGS.aspx)
