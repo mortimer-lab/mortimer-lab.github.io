@@ -587,6 +587,14 @@ Steps to install specific software:
 2. Activate the environment: `mamba activate name_of_environment`
 3. Install software: `mamba install name_of_software`
 
+### Transferring files between Sapelo2 and your computer
+
+[GACRC Documentation: Transferring Files](https://wiki.gacrc.uga.edu/wiki/Transferring_Files)
+
+You can transfer files to and from Sapelo2 using `scp` or `rsync`. Here is an example of a command that will transfer a file in your current working directory to Sapelo2:
+
+`scp filename MyID@xfer.gacrd.uga.edu:/full/path/to/where/you/want/the/file/`
+
 ## Reading and citing the scientific literature
 
 ### Finding relevant articles
