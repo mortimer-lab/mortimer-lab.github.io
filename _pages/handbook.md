@@ -537,7 +537,7 @@ You can also use a config file (`.ssh/config`) to save the Sapelo2 host informat
 ```
 Host sapelo2
 	HostName sapelo2.gacrc.uga.edu
-	User tdm
+	User myID
 ```
 
 [GACRC Documentation: Connecting to Sapelo2](https://wiki.gacrc.uga.edu/wiki/Connecting)
