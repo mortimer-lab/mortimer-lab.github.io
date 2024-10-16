@@ -78,7 +78,7 @@ The lab primarily communicates via a [slack workspace](https://mortimer-lab.slac
 
 If my office door is open, please feel free to come in. If I'm out of office or my office door is closed, it is best to send me a message on slack. I expect that everyone checks in on the lab slack a few times a day on days you are working. You do not need to respond to messages at night, on the weekend, or on vacation even if other lab members are working during those times.
 
-The lab also has a shared calendar. Everyone should feel free to add or update events on the calendar that may be of interest to the lab, including lab meetings, seminars, and conference abstract deadlines. I will also keep the calendar up to date with days that I will be traveling for work or on vacation. 
+The lab also has a shared calendar. If you do not have access to the lab calendar, please ask Tatum to share it with you. Everyone should feel free to add or update events on the calendar that may be of interest to the lab, including lab meetings, seminars, and conference abstract deadlines. I will also keep the calendar up to date with days that I will be traveling for work or on vacation. 
 
 If you would like to share your planned vacations on the lab calendar or update your slack status when you are away or sick, you are welcome to do so. However, I want to emphasize that this is not a requirement, and while you should let me know when you will be away from the lab, you do not have to share your specific schedule or reasons for being out with the whole lab.
 
@@ -94,7 +94,7 @@ In the spring, we will use one of our individual meetings to complete any requir
 
 ### Lab meeting
 
-We have a weekly, one hour lab meeting. We will use this the first 10-15 minutes for general lab updates, and we will use the remaining time for research presentations, practice talks or poster review, discussion of journal articles, tutorials on computational or other scientific skills, or discussion of broader topics which put our work in context with our community, including outreach, advocacy, and DEI. At the beginning of the fall, spring, and summer, we will reschedule our weekly lab meetings to best accommodate everyone's schedules.
+We have a weekly, one hour lab meeting. We will use this the first 10-15 minutes for general lab updates, and we will use the remaining time for research presentations, practice talks or poster review, discussion of journal articles, tutorials on computational or other scientific skills, or discussion of broader topics which put our work in context with our community, including outreach, advocacy, and DEI. At the beginning of the fall, spring, and summer, we will reschedule our weekly lab meetings to best accommodate everyone's schedules. The schedule for lab meeting can be found in the OneDrive.
 
 ### Yearly lab goals meeting
 
