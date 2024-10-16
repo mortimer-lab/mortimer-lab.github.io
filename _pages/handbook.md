@@ -121,7 +121,7 @@ We will also have a lab lunch on me!
 
 ## Lab space
 
-The lab is located in the Poultry Diagnostic and Research Center Building (953 College Station Rd) in Room 121, which can be accessed from the main lobby. 
+The main lab space is located in the Poultry Diagnostic and Research Center Building (953 College Station Rd) in Room 121, which can be accessed from the main lobby. My office is within Room 121. It is on the left right before you go up the stairs to the breakroom/kitchen. There is a pink sign with 121 on it in the lobby, and our doors have a "Mortimer Lab" sign. The wet lab space is also in PDRC in Room 150.
 
 ## Computers
 
