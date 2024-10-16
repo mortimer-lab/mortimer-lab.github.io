@@ -428,6 +428,8 @@ The following are conferences that you might consider attending:
 
 ### Funding Opportunities
 
+Successful funding applications can be found in the lab OneDrive if an example would be helpful to work from! Please do not share these applications outside of the lab unless you have the permission of the original author.
+
 #### Postdoctoral
 
 - NIH F32
@@ -443,6 +445,8 @@ The following are conferences that you might consider attending:
 - [UGA Travel Grants](https://grad.uga.edu/funding/travel-grants/)
 
 #### Undergraduate
+
+- [CURO Research Award](https://curo.uga.edu/students/curo-research-award/)
 
 ### Job Boards
 
