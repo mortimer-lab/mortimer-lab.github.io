@@ -384,7 +384,11 @@ If you will be working at the bench, please complete the safety training availab
 
 ### Biosafety
 
-Coming soon!
+Our lab is a BSL-2 laboratory. You must complete the [Proficiency in Standard and Special Microbiological Practices](https://ugeorgia.qualtrics.com/jfe/form/SV_1MpdDxqY4y8QGBD?Q_JFE=qdg) form after training. If you will be working at the bench, please complete the safety training available through UGA's [PEP](https://hr.uga.edu/pep/):
+- UGA Right to Know: Bloodborne Pathogens Training (annual)
+- BSL-2 Training Curriculum
+
+Our biosafety manual can be found in the lab OneDrive.
 
 ## Professional Development
 
