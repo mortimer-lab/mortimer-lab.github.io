@@ -591,6 +591,10 @@ Steps to install specific software:
 2. Activate the environment: `mamba activate name_of_environment`
 3. Install software: `mamba install name_of_software`
 
+Steps to export a conda environment to a file (helpful for snakemake configuration):
+1. Activate the environment: `mamba activate name_of_environment`
+2. Export the environment to a file: `mamba env export > name_of_environment.yml`
+
 ### Transferring files between Sapelo2 and your computer
 
 [GACRC Documentation: Transferring Files](https://wiki.gacrc.uga.edu/wiki/Transferring_Files)
