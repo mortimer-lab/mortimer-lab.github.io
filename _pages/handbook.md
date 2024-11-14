@@ -579,7 +579,7 @@ GACRC centrally installs software packages on Sapelo2 through software modules o
 
 If the software you would like to use is not already installed on Sapelo2, consider using conda (or mamba, a faster version of conda) to install the software in a dedicated environment. 
 
-Steps to install conda and mamba:
+Steps to install conda and mamba (run in command line):
 1. Download miniforge: `wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh`
 2. Run the installation script: `bash Miniforge3-Linux-x86_64.sh`
 3. Mambaforge will be installed in your home directory
