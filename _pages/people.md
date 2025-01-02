@@ -40,7 +40,7 @@ Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/OliviaCalder">
-<img src="/assets/images/Calder_headshot_new.jpg" width="30%" title="Olivia Calder" align="left" hspace="30">
+<img src="/assets/images/Calder_headshot.jpg" width="30%" title="Olivia Calder" align="left" hspace="30">
 </a>
 
 __Olivia Calder__<br/>
