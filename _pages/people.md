@@ -14,6 +14,15 @@ College of Veterinary Medicine<br/>
 University of Georgia<br/><br/><br/><br/><br/><br/>
 
 
+<a href="/people/BrittanyHenry">
+<img src="/assets/images/Henry_headshot.jpg" width="30%" title="Brittany Henry" align="left" hspace="30">
+</a>
+
+__Brittany Henry__<br/>
+Research Professional<br/>
+Department of Population Health<br/>
+College of Veterinary Medicine<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/FarahSaeed">
 <img src="/assets/images/Saeed_headshot.jpg" width="30%" title="Farah Saeed" align="left" hspace="30">
 </a>
@@ -30,19 +39,29 @@ __Shanita Smrity__<br/>
 Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<a href="/people/OliviaCalder">
+<img src="/assets/images/Calder_headshot_new.jpg" width="30%" title="Olivia Calder" align="left" hspace="30">
+</a>
+
+__Olivia Calder__<br/>
+Undergraduate Student Assistant<br/>
+Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/ShriyaGarg">
 <img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
 </a>
 
 __Shriya Garg__<br/>
-Undergraduate Student Assistant<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Undergraduate Student Assistant<br/>
+Genetics and Economics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/SelinaSun">
 <img src="/assets/images/Sun_headshot.jpg" width="30%" title="Selina Sun" align="left" hspace="30">
 </a>
 
 __Selina Sun__<br/>
-Undergraduate Student Assistant<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Undergraduate Student Assistant<br/>
+Cell Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Lab Alumni
 
