@@ -32,7 +32,7 @@ Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/KimCasares">
-<img src="/assets/images/Casares_headshot.jpg" width="30%" title="Kim Casares" align="left" hspace="30">
+<img src="/assets/images/Casares_headshot.png" width="30%" title="Kim Casares" align="left" hspace="30">
 </a>
 
 __Kim Casares__<br/>

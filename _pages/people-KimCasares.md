@@ -3,7 +3,7 @@ permalink: /people/KimCasares/
 title: ""
 author:
   name   : "Kim Casares"
-  avatar : "/assets/images/Casares_headshot.jpg"
+  avatar : "/assets/images/Casares_headshot.png"
   bio    : Graduate Research Assistant, Bioinformatics
   links:
     - label: "LinkedIn"
