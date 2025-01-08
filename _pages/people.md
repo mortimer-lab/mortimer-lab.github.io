@@ -23,6 +23,22 @@ Research Professional<br/>
 Department of Population Health<br/>
 College of Veterinary Medicine<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<a href="/people/PavaniBommana">
+<img src="/assets/images/Bommana_headshot.jpg" width="30%" title="Pavani Bommana" align="left" hspace="30">
+</a>
+
+__Pavani Bommana__<br/>
+Graduate Research Assistant<br/>
+Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<a href="/people/KimCasares">
+<img src="/assets/images/Casares_headshot.jpg" width="30%" title="Kim Casares" align="left" hspace="30">
+</a>
+
+__Kim Casares__<br/>
+Graduate Research Assistant<br/>
+Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/FarahSaeed">
 <img src="/assets/images/Saeed_headshot.jpg" width="30%" title="Farah Saeed" align="left" hspace="30">
 </a>
