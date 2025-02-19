@@ -71,6 +71,14 @@ __Shriya Garg__<br/>
 Undergraduate Student Assistant<br/>
 Genetics and Economics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<a href="/people/JamieMarkowski">
+<img src="/assets/images/Markowski_headshot.jpg" width="30%" title="Jamie Markowski" align="left" hspace="30">
+</a>
+
+__Jamie Markowski__<br/>
+Undergraduate Student Assistant<br/>
+Microbiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/SelinaSun">
 <img src="/assets/images/Sun_headshot.jpg" width="30%" title="Selina Sun" align="left" hspace="30">
 </a>
