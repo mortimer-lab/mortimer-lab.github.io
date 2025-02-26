@@ -166,6 +166,10 @@ For some academic journals, you may need to access articles through UGA's subscr
 - [UGA Student Financial Resources](https://sco.uga.edu/resources-financial/)
 - [Compiled Studnet Resources at UGA](https://instruction.uga.edu/resources/student/)
 
+## Ordering Supplies
+
+If you need to order supplies for the lab, please fill out this form: [Mortimer Lab Ordering](https://forms.gle/RsArJTVZJnV6Ugeu7) and send Brittany a slack message letting her know!
+
 # Joining and leaving the lab
 
 ## Lab Onboarding
