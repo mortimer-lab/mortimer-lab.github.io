@@ -74,7 +74,7 @@ Please do not come to lab if you are sick and take the time you need to rest and
 
 ### Lab environment
 
-In ensure that the lab is a respectful and productive workplace for all lab members, please adhere to the following guidelines:
+To ensure that the lab is a respectful and productive workplace for all lab members, please adhere to the following guidelines:
 
 1. Wear headphones when attending online seminars/classes, participating in a work-related zoom call, or listening to music.
 2. Try to limit personal phone calls. If you need to have a longer conversation, please step outside or use the PDRC breakroom.
