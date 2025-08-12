@@ -52,7 +52,7 @@ In addition to the stress that comes with academic training, your wellness and p
 
 ### Hours and remote work
 
-One of the perks of working in a primarily computational lab is the ability to work when and where is best for you, and I won't be keeping tabs on exactly when you are in the lab as long as you are making progress on your work. However, there are many benefits to socializing with and learning from other members of the lab and department, so I would encourage everyone to physically be in the lab at least three days per week during normal working hours (overlapping 11am-3pm). To that end, if there are ways I can make the lab a more comfortable space for you to work, please let me know. I expect that hourly employees will accurately report their time.
+One of the perks of working in a primarily computational lab is the ability to work when and where is best for you, and I won't be keeping tabs on exactly when you are in the lab as long as you are making progress on your work. However, there are many benefits to socializing with and learning from other members of the lab and department, so I expect everyone to physically be in the lab at least three days per week during normal working hours (overlapping 11am-3pm). If you need to work remotely for an extended period of time, please discuss this with me in advance. If there are ways I can make the lab a more comfortable space for you to work, please let me know. I expect that hourly employees will accurately report their time.
 
 The above does not apply to undergraduate students who need to work around their class schedules, may not work more than 20 hours per week, and should only be in lab during normal work hours. Students doing research for credit should plan to work at least 45 hours per credit hour in a given semester. Undergrads should discuss their planned schedule and work hours with me at the beginning of the semester.
 
@@ -71,6 +71,15 @@ UGA benefits eligible employees and postdoctoral researchers accrue vacation hou
 Please do not come to lab if you are sick and take the time you need to rest and recover! If you are feeling well enough to work but may still be contagious, please work remotely.
 
 [UGA policy on sick leave for benefits-eligible employees](https://hr.uga.edu/Current_Employees/Leave/sick_leave/)
+
+### Lab environment
+
+In ensure that the lab is a respectful and productive workplace for all lab members, please adhere to the following guidelines:
+
+1. Wear headphones when attending online seminars/classes, participating in a work-related zoom call, or listening to music.
+2. Try to limit personal phone calls. If you need to have a longer conversation, please step outside or use the PDRC breakroom.
+3. Short social and work-related conversations are encouraged in the lab, but please respect others who may be trying to work.
+4. Keep the lab clean and organized.
 
 ## Lab communication
 
