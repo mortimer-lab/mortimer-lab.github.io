@@ -1,5 +1,5 @@
 ---
-title: "Nay 13: Ivan-Anthony has joined the lab!"
+title: "May 13: Ivan-Anthony has joined the lab!"
 excerpt_separator: "<!--more-->"
 categories:
   - News
