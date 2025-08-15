@@ -39,14 +39,6 @@ __Kim Casares__<br/>
 Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<a href="/people/FarahSaeed">
-<img src="/assets/images/Saeed_headshot.jpg" width="30%" title="Farah Saeed" align="left" hspace="30">
-</a>
-
-__Farah Saeed__<br/>
-Graduate Research Assistant<br/>
-Computer Science<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <a href="/people/ShanitaSmrity">
 <img src="/assets/images/Smrity_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
 </a>
@@ -55,13 +47,14 @@ __Shanita Smrity__<br/>
 Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<a href="/people/OliviaCalder">
-<img src="/assets/images/Calder_headshot.jpg" width="30%" title="Olivia Calder" align="left" hspace="30">
+
+<a href="/people/Ivan-AnthonyDestin">
+<img src="/assets/images/Destin_headshot.jpg" width="30%" title="Ivan-Anthony Destin" align="left" hspace="30">
 </a>
 
-__Olivia Calder__<br/>
+__Ivan-Anthony Destin__<br/>
 Undergraduate Student Assistant<br/>
-Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Microbiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/ShriyaGarg">
 <img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
@@ -77,7 +70,7 @@ Genetics and Economics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 __Jamie Markowski__<br/>
 Undergraduate Student Assistant<br/>
-Microbiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Microbiology (Major), Public Health and Entomology (Minors)<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/SelinaSun">
 <img src="/assets/images/Sun_headshot.jpg" width="30%" title="Selina Sun" align="left" hspace="30">
@@ -89,6 +82,22 @@ Cell Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Lab Alumni
 
+<a href="/people/FarahSaeed">
+<img src="/assets/images/Saeed_headshot.jpg" width="30%" title="Farah Saeed" align="left" hspace="30">
+</a>
+
+__Farah Saeed__<br/>
+Graduate Research Assistant<br/>
+Computer Science<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<a href="/people/OliviaCalder">
+<img src="/assets/images/Calder_headshot.jpg" width="30%" title="Olivia Calder" align="left" hspace="30">
+</a>
+
+__Olivia Calder__<br/>
+Undergraduate Student Assistant<br/>
+Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/LindseyGuerra">
 <img src="/assets/images/Guerra_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
 </a>
@@ -96,3 +105,4 @@ Cell Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 __Lindsey Guerra__<br/>
 GVSP Scholar<br/>
 College of Veterinary Medicine
+
