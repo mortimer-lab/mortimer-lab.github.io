@@ -12,6 +12,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:shanita.smrity@uga.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shanitasmrity"
 author_profile: true
 ---
 
