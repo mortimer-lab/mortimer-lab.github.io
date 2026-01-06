@@ -15,6 +15,10 @@ Our goal is to use population genomics and statistical methods to study the epid
 
 We also aim to train scientists who work both independently and collaboratively to study the impact of pathogen ecology and evolution on public health using microbial genomic data. Trainees are encouraged to devise projects aligned with their career goals and establish collaborations both inside and outside the lab.
 
+## University Policies
+
+All lab members are expected to adhere to University of Georgia and University System of Georgia policies, including, but not limited to, the [Code of Conduct](https://conduct.uga.edu/code-of-conduct/), the [Academic Honesty Policy](https://honesty.uga.edu/academic-honesty-policy/), and the [USG Ethics Policy](https://www.usg.edu/audit/compliance/ethics_policy).
+
 ## Diversity, equity, and inclusion
 
 In the Mortimer Lab, we are committed to fostering a diverse scientific workforce through our research, mentorship, and teaching activities within the lab, across the university, and in the community. Lab members agree to the following actions: 
@@ -45,6 +49,13 @@ In addition to the stress that comes with academic training, your wellness and p
 4. Thoroughly [document](#data-storage-and-sharing) and share your work
 5. Ask for feedback from me, collaborators, and other lab members in a timely manner
 6. Contribute to the lab environment: share your expertise with others, participate in lab meetings, and offer feedback on experimental design, code, figures, and drafts
+
+## Use of generative AI models
+
+I recognize that generative AI resources can be useful tools for the development and debugging of code. However, I encourage everyone to write original code whenever possible. When you use code from some other resource, including generative AI or online forums, ensure that you understand what each line of code does before moving on to the next step of your analysis. 
+
+Reading the scientific literature and practicing writing are crucial steps in your development as a scientist. AI generated summaries are not a subsitute for keeping up with scientific literature related to your project. Use of generative AI tools is not permitted for writing of abstracts, scientific manuscripts, or grant applications.
+
 
 # Lab day to day
 
