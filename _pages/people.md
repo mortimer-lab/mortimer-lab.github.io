@@ -24,7 +24,7 @@ Department of Population Health<br/>
 College of Veterinary Medicine<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/PavaniBommana">
-<img src="/assets/images/Bommana_headshot.jpg" width="30%" title="Pavani Bommana" align="left" hspace="30">
+<img src="/assets/images/Bommana_headshot2.jpg" width="30%" title="Pavani Bommana" align="left" hspace="30">
 </a>
 
 __Pavani Bommana__<br/>
