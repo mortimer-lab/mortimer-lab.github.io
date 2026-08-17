@@ -12,4 +12,4 @@ author:
 author_profile: true
 ---
 
-Selina Sun is a 1st year student from Montgomery, AL, at the University of Georgia currently studying biology on the pre-med track. She is also a Foundation Fellow in the Morehead Honors College.
+Selina Sun is a 4th year student from Montgomery, AL, at the University of Georgia currently studying biomedical physiology, mathematics, and biology on the pre-med track. She is also a Foundation Fellow in the Morehead Honors College.

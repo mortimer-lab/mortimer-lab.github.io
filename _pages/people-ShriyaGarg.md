@@ -12,4 +12,4 @@ author:
 author_profile: true
 ---
 
-Shriya Garg is a 2nd-year student from Rome, GA, at the University of Georgia currently studying genetics and economics on the pre-med track. She is also a Foundation Fellow and Stamps Scholar in the Morehead Honors College.
+Shriya Garg is a 4th-year student from Rome, GA, at the University of Georgia currently studying genetics and economics on the pre-med track. She is also a Foundation Fellow and Stamps Scholar in the Morehead Honors College.
