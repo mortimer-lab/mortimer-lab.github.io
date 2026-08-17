@@ -40,13 +40,13 @@ Graduate Research Assistant<br/>
 Institute of Bioinformatics<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
-<a href="/people/Ivan-AnthonyDestin">
-<img src="/assets/images/Destin_headshot.jpg" width="30%" title="Ivan-Anthony Destin" align="left" hspace="30">
+<a href="/people/Kisha-AmoyBailey">
+<img src="/assets/images/Bailey_headshot.jpg" width="30%" title="Ivan-Anthony Destin" align="left" hspace="30">
 </a>
 
-__Ivan-Anthony Destin__<br/>
+__Kish-Amoy Bailey__<br/>
 Undergraduate Student Assistant<br/>
-Microbiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Biomedical Physiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/ShriyaGarg">
 <img src="/assets/images/Garg_headshot_new.jpg" width="30%" title="Shriya Garg" align="left" hspace="30">
@@ -64,13 +64,21 @@ __Jamie Markowski__<br/>
 Undergraduate Student Assistant<br/>
 Microbiology (Major), Public Health and Entomology (Minors)<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<a href="/people/KateRich">
+<img src="/assets/images/Rich_headshot.jpg" width="30%" title="Ivan-Anthony Destin" align="left" hspace="30">
+</a>
+
+__Kate Rich__<br/>
+Undergraduate Student Assistant<br/>
+Microbiology (Major), Infectious Diseases (Minor)<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 <a href="/people/SelinaSun">
 <img src="/assets/images/Sun_headshot.jpg" width="30%" title="Selina Sun" align="left" hspace="30">
 </a>
 
 __Selina Sun__<br/>
 Undergraduate Student Assistant<br/>
-Cell Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Biomedical Physiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Lab Alumni
 
@@ -88,7 +96,16 @@ Computer Science<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 __Olivia Calder__<br/>
 Undergraduate Student Assistant<br/>
-Biology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Biology<br/>
+Current Position: Medical Student at the Medical College of Georgia<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<a href="/people/Ivan-AnthonyDestin">
+<img src="/assets/images/Destin_headshot.jpg" width="30%" title="Ivan-Anthony Destin" align="left" hspace="30">
+</a>
+
+__Ivan-Anthony Destin__<br/>
+Undergraduate Student Assistant<br/>
+Microbiology<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <a href="/people/LindseyGuerra">
 <img src="/assets/images/Guerra_headshot.jpg" width="30%" title="Shanita Smrity" align="left" hspace="30">
